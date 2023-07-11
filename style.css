@@ -170,7 +170,59 @@ span{
   padding-bottom: 50px;
   margin-bottom: 128px;
 }
+.last-section{
+  text-align: center;
+  margin-bottom: 128PX;
+  justify-content: center;
 
+}
+.last-section-text{
+  color: #272727;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 800;
+  padding-top: 150px;
+  
+
+  
+ 
+}
+.last-paragraph{
+  color: rgba(39, 39, 39, 0.60);
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+padding: 20px;
+
+
+}
+.form{
+  width: 400px;
+height: 50px;
+border-radius: 8px;
+background: #FFF;
+
+}
+.subscribe{
+  width: 150px;
+height: 50px;
+border-radius: 8px;
+background: orangered;
+border: none;
+
+}
+.backgroud-img{
+  background-image: url(./asset/rectangle9.png);
+  background-repeat: no-repeat; */
+  max-width: 500;
+  margin-bottom: 50px;
+   margin-left: 240px; 
+   margin-right: 240px;
+  justify-content: center;
+  border-radius: 8px; 
+  display: flex;
+  background-position: center;
+}
 
 
 
