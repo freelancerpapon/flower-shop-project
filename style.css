@@ -28,6 +28,7 @@
   color: aliceblue;
   font-size: 18px;
   border: none;
+  border-radius: 5px;
   
 
 }
@@ -38,7 +39,7 @@
   margin-top: 50px;
 }
 
-/* End header part */
+/* Main-section */
 
 .small-contain{
   text-align: center;
@@ -223,7 +224,37 @@ border: none;
   display: flex;
   background-position: center;
 }
+/* footer-section */
 
+.footer-section{
+  text-align: center;
+  background-color: #111010;
+  height: 450px;
+}
+.footer-text{
+  color: #E55473;
+  font-size: 48px;
+  font-weight: 800;
+  padding-top: 128px;
+}
+.footer-paragraph-text{
+  color: rgba(255, 255, 255, 0.90);
+text-align: center;
+padding-top: 20px;
+font-size: 20px;
+font-weight: 400;
+line-height: 30px;
+}
+.last-texts{
+  color: rgba(255, 255, 255, 0.40);
+font-size: 16px;
+font-weight: 400;
+padding-top: 32px;
+
+}
+.shop{
+  color: azure;
+}
 
 
 
